@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_2</name>
+   <tag></tag>
+   <elementGuidId>c5f2a261-6f96-4b12-9237-c37e894a2a98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div/div/div/div/div[2]/div/div/form/div/div[2]/div/div[2]/div/span[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>52555371-cd70-4756-b716-6cd590966122</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cell day</value>
+      <webElementGuid>4a8c263f-474e-4eeb-a010-ed4c7fecac10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>9785d048-7dd6-4c25-ac17-985c866df17c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card card-plb&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-md-8&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;form-group row mt-4&quot;]/div[@class=&quot;col-sm-4&quot;]/div[@class=&quot;vdp-datepicker&quot;]/div[@class=&quot;vdp-datepicker__calendar&quot;]/div[1]/span[@class=&quot;cell day&quot;]</value>
+      <webElementGuid>62e70f26-ec06-4843-af35-c97579e951d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/div/div/div/div[2]/div/div/form/div/div[2]/div/div[2]/div/span[10]</value>
+      <webElementGuid>271500fe-910b-4267-8e5a-de20659cb64f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[2]/following::span[3]</value>
+      <webElementGuid>b8f8761a-1cef-4510-9f55-f56f1bad7a74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri'])[2]/following::span[4]</value>
+      <webElementGuid>813e35f9-a2c4-45a3-bb88-d19105f58776</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt;'])[5]/preceding::span[27]</value>
+      <webElementGuid>24c4665f-29e2-450d-9481-812756093484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[5]/preceding::span[29]</value>
+      <webElementGuid>198664f5-8662-44ac-83f0-fcad39d28cf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/span[10]</value>
+      <webElementGuid>5b5525da-b61b-43ba-97f1-62bd288d5d30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '2' or . = '2')]</value>
+      <webElementGuid>11e85c9f-1bba-4e8e-9261-c53d771cb794</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

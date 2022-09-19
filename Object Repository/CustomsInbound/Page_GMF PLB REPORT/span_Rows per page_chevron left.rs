@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rows per page_chevron left</name>
+   <tag></tag>
+   <elementGuidId>31763ba2-4572-4ed4-9d05-fb2b7af2dd85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.chevron.left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div/div/div/div/div[2]/div[2]/div/div/div[3]/div[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c97951d8-064b-4e4a-bd94-8485b9926055</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a8fbbe4e-8f45-4c6c-86a5-08b97f8326fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chevron left</value>
+      <webElementGuid>bfc14756-7189-40c7-a393-3feb141a460c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card card-plb&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-group mt-4&quot;]/div[@class=&quot;vgt-wrap polar-bear&quot;]/div[@class=&quot;vgt-inner-wrap&quot;]/div[@class=&quot;vgt-wrap__footer vgt-clearfix&quot;]/div[@class=&quot;footer__navigation vgt-pull-right&quot;]/button[@class=&quot;footer__navigation__page-btn disabled&quot;]/span[@class=&quot;chevron left&quot;]</value>
+      <webElementGuid>e7dabbbb-78e0-4975-b317-24505750476e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/div/div/div/div[2]/div[2]/div/div/div[3]/div[2]/button/span</value>
+      <webElementGuid>1ffc2f90-95b7-42c7-ab25-be0313538997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>83ba1c77-1a30-4318-81fa-6231d29fbadd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

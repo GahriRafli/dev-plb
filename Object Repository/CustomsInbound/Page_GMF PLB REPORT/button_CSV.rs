@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_CSV</name>
+   <tag></tag>
+   <elementGuidId>ba92ec20-8b69-4963-8a19-03baa599cc51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-secondary.ms-auto.rounded-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f856ec7d-e441-4fe0-9e2f-f79f6c247df9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-secondary ms-auto rounded-1</value>
+      <webElementGuid>e1796960-356e-42c3-a77d-6c0fb564373c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            CSV
+                          </value>
+      <webElementGuid>227cec0f-b59f-4c3d-ac66-36a71107bff7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card card-plb&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-group mt-4&quot;]/div[@class=&quot;vgt-wrap polar-bear&quot;]/div[@class=&quot;vgt-inner-wrap&quot;]/div[@class=&quot;vgt-global-search vgt-clearfix&quot;]/div[@class=&quot;vgt-global-search__actions vgt-pull-right&quot;]/div[1]/button[@class=&quot;btn btn-secondary ms-auto rounded-1&quot;]</value>
+      <webElementGuid>01a80f17-1f0b-4277-8b43-33fc01edc195</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/button</value>
+      <webElementGuid>8805e069-ef53-47fa-88cd-679d6bbfba38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::button[1]</value>
+      <webElementGuid>d12d3cdf-4813-403a-b25e-c685872777b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::button[1]</value>
+      <webElementGuid>f1bc1aa6-8aaa-4cd2-a417-fb52e5c1bc3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Excel'])[1]/preceding::button[1]</value>
+      <webElementGuid>2fd7798a-ab6e-4d5e-8ae7-6efcf28b67f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF'])[1]/preceding::button[2]</value>
+      <webElementGuid>493b56e9-3d60-494e-b492-cfc8fa2a5b2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CSV']/parent::*</value>
+      <webElementGuid>c94209bd-a3dd-4227-a3c2-6742ffe70b48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>8d81b22c-9d90-4d5b-b83f-696f285d4fea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                            CSV
+                          ' or . = '
+                            CSV
+                          ')]</value>
+      <webElementGuid>fb265b8e-bddd-4c48-953a-665aa23b1800</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

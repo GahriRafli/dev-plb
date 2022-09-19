@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Lampiran_vgt-input text-center_1_2_3_4_5_6_7</name>
+   <tag></tag>
+   <elementGuidId>2068501c-c126-4c9d-babe-2315d3985bf6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[12]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>addf04f4-2e62-4ea1-a747-e9876739d2e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>ea54d659-2290-461a-9d2f-ee84f2481c65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Nama Barang</value>
+      <webElementGuid>fe2ab8bf-d221-489a-ba28-41e0e64d774a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vgt-input text-center</value>
+      <webElementGuid>31c35bae-7722-4280-9f32-084c5a4a16f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vgt-table&quot;)/thead[1]/tr[2]/th[@class=&quot;filter-th&quot;]/div[1]/input[@class=&quot;vgt-input text-center&quot;]</value>
+      <webElementGuid>0e150dba-6fc6-4d31-839e-859bc9b52989</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[12]</value>
+      <webElementGuid>66932574-20b7-499f-92fc-52588ab2d037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='vgt-table']/thead/tr[2]/th[11]/div/input</value>
+      <webElementGuid>bff3b643-083f-4884-96d7-1606f3eea6ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[11]/div/input</value>
+      <webElementGuid>b307574f-571a-444b-99dd-1ea43ba29328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Nama Barang']</value>
+      <webElementGuid>c5eabc7e-ee87-4d09-a14b-c0534d9f5ad7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

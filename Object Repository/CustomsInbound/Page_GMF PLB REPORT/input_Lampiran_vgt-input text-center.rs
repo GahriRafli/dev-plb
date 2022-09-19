@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Lampiran_vgt-input text-center</name>
+   <tag></tag>
+   <elementGuidId>cbcd71d1-373b-4ee8-b308-27829ba1daab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.vgt-input.text-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>8d0ca1d9-179a-4766-b041-e7d80c20649d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>f305fb33-4463-4312-8536-09fed879a02f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Jenis Dokumen</value>
+      <webElementGuid>5e7af65d-b337-4c77-9412-225d168c00fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vgt-input text-center</value>
+      <webElementGuid>743ade7b-c584-4d5d-8235-774712058856</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vgt-table&quot;)/thead[1]/tr[2]/th[@class=&quot;filter-th&quot;]/div[1]/input[@class=&quot;vgt-input text-center&quot;]</value>
+      <webElementGuid>f2b3edce-3220-4b18-97c2-ac5ddda175dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[5]</value>
+      <webElementGuid>9a95be09-7b6a-4798-9d45-814931c76258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='vgt-table']/thead/tr[2]/th/div/input</value>
+      <webElementGuid>6445c069-5b86-49a7-9822-bd0582c8c5ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th/div/input</value>
+      <webElementGuid>a26d7688-0b26-4108-ba0a-8445c310dabc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Jenis Dokumen']</value>
+      <webElementGuid>0c64ae99-e507-4ba2-9fb2-045bbf1285ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

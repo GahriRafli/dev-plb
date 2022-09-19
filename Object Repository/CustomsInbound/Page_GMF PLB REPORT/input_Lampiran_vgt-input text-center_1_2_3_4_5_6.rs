@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Lampiran_vgt-input text-center_1_2_3_4_5_6</name>
+   <tag></tag>
+   <elementGuidId>1a8373dd-96ba-4035-880a-29b64bfc1d85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e33f0846-127f-4e72-a0a9-b05012c41541</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>633437af-18ac-4182-9474-0759bb441cb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Kode HS</value>
+      <webElementGuid>02a8ea12-1679-4ac7-8def-e740d389449c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vgt-input text-center</value>
+      <webElementGuid>042000f2-8c31-44f0-a9d8-f96a9823994f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vgt-table&quot;)/thead[1]/tr[2]/th[@class=&quot;filter-th&quot;]/div[1]/input[@class=&quot;vgt-input text-center&quot;]</value>
+      <webElementGuid>dd73d270-0a95-49f6-b15b-eeff5f56a51b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[11]</value>
+      <webElementGuid>b277a600-ebf7-431c-9190-b5b7bc095e70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='vgt-table']/thead/tr[2]/th[10]/div/input</value>
+      <webElementGuid>9f76bfec-89da-4f3e-9d6d-558db14bec49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[10]/div/input</value>
+      <webElementGuid>abdc8c03-964b-4c3b-8ebd-7d93dd74e898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Kode HS']</value>
+      <webElementGuid>a87a8fed-899b-4bc7-bd1c-3c04218ef568</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

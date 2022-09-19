@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Reset</name>
+   <tag></tag>
+   <elementGuidId>e36c55f7-39ef-4851-a570-df7b9afa3419</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-secondary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div/div/div/div/div[2]/div/div/form/div[4]/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b35677ba-9112-4e01-8f17-47517197e070</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-secondary</value>
+      <webElementGuid>5aa33ad1-fec3-4ba2-a73c-b06a9ca1a394</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Reset
+                        </value>
+      <webElementGuid>a4163934-16da-46f1-ab9a-d5dc16afe414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card card-plb&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-md-8&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;form-group row justify-content-center&quot;]/div[@class=&quot;col-sm-6&quot;]/button[@class=&quot;btn btn-secondary&quot;]</value>
+      <webElementGuid>f39487f0-442c-45ed-aec7-36f389719c8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/div/div/div/div[2]/div/div/form/div[4]/div/button[2]</value>
+      <webElementGuid>860fbb17-4644-4ee6-9ab4-1cb0a7e86b28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/following::button[1]</value>
+      <webElementGuid>66e0c5c6-3211-4f8c-bc36-0e6d3b51e50c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Dokumen'])[1]/following::button[2]</value>
+      <webElementGuid>b56c9c91-aedb-4c96-acbf-da31617ba76e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::button[1]</value>
+      <webElementGuid>06dabd3f-d268-4b94-b4ac-6555a77999dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CSV'])[1]/preceding::button[1]</value>
+      <webElementGuid>515ece54-6a03-49cd-9085-73c5a58f8b97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reset']/parent::*</value>
+      <webElementGuid>db1bb450-2a76-4866-8c2c-9c4255179a88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>4ab8d067-be0a-4c79-8d44-7d158701d423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Reset
+                        ' or . = ' Reset
+                        ')]</value>
+      <webElementGuid>d1076115-8ce4-499e-b967-6dfa58c2e33b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

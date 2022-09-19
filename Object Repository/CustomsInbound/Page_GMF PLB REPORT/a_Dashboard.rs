@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>c2447bc9-7f14-48e4-a091-f787380f04c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.breadcrumb-item > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div/div/div[2]/ol/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>507e9829-b852-4d55-b962-ed91f7a7d727</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard</value>
+      <webElementGuid>64304e54-0aac-49e1-bd04-091c19152e01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard</value>
+      <webElementGuid>7efed851-8f14-4b66-97c0-db78ff2ccc32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;content-header&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row mb-2&quot;]/div[@class=&quot;col-sm-6&quot;]/ol[@class=&quot;breadcrumb float-sm-right&quot;]/li[@class=&quot;breadcrumb-item&quot;]/a[1]</value>
+      <webElementGuid>4bfb1dd7-734d-4e59-bb2f-c57f85934b5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/div/div[2]/ol/li/a</value>
+      <webElementGuid>c7d81bc8-d2a0-4b49-b13c-4b62bf62ac5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Dashboard')])[2]</value>
+      <webElementGuid>33cb262f-cea1-4842-9829-16bccb930a65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokumen Kepabeanan'])[2]/following::a[1]</value>
+      <webElementGuid>acb0eddb-0847-475c-be71-11b674bcf386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Miscellaneous'])[1]/following::a[6]</value>
+      <webElementGuid>e8887b56-bc30-4e17-b57a-ec76110d7124</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokumen Pemasukan PLB'])[2]/preceding::a[1]</value>
+      <webElementGuid>c4daa466-acbb-4946-8440-9bf57bf5d577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokumen Pemasukan PLB'])[3]/preceding::a[1]</value>
+      <webElementGuid>3f2738d7-2f37-4da6-b4b5-3956d49f7f75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/dashboard')])[4]</value>
+      <webElementGuid>e9ae696f-d084-4bba-acad-6aaec3b97f96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol/li/a</value>
+      <webElementGuid>23f81a05-569a-4f90-a304-d9d9375cb090</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/dashboard' and (text() = 'Dashboard' or . = 'Dashboard')]</value>
+      <webElementGuid>b5fdde13-1ffc-4c6c-ad82-f62fd99fdbf8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

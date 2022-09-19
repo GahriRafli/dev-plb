@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_page</name>
+   <tag></tag>
+   <elementGuidId>e8aa8feb-be98-4043-9669-b105542b3246</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.page-info__label > span.paginate_text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div/div/div/div/div[2]/div[2]/div/div/div[3]/div[2]/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eee96ada-3a2d-4b11-b7b9-ab333b19f39d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>paginate_text</value>
+      <webElementGuid>388e0ab6-c355-4172-a54c-ac20f2f4f997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>147740ea-a6d2-4219-8574-1dd0ac0faa74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card card-plb&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-group mt-4&quot;]/div[@class=&quot;vgt-wrap polar-bear&quot;]/div[@class=&quot;vgt-inner-wrap&quot;]/div[@class=&quot;vgt-wrap__footer vgt-clearfix&quot;]/div[@class=&quot;footer__navigation vgt-pull-right&quot;]/div[@class=&quot;footer__navigation__page-info&quot;]/label[@class=&quot;page-info__label&quot;]/span[@class=&quot;paginate_text&quot;]</value>
+      <webElementGuid>7282f10f-804d-4234-8e35-4bb6517a2192</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/div/div/div/div[2]/div[2]/div/div/div[3]/div[2]/div/label/span</value>
+      <webElementGuid>0527aac6-d169-4d86-814c-3df18f02ad3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prev'])[1]/following::span[1]</value>
+      <webElementGuid>a744a328-b1fc-48d1-9586-65214c59d487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rows per page:'])[1]/following::span[3]</value>
+      <webElementGuid>19e43e76-9219-4f94-9b1f-499aa4951461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of'])[1]/preceding::span[1]</value>
+      <webElementGuid>6529776e-b022-4e60-833c-6a8b1c61c1e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::span[2]</value>
+      <webElementGuid>4cd934c9-5112-4ecd-ada6-947d504892d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='page']/parent::*</value>
+      <webElementGuid>2466617f-3bb2-47a2-a19a-13b1b1b2d0d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label/span</value>
+      <webElementGuid>eaabe3e1-4c3f-4801-bff8-9163a525986d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'page' or . = 'page')]</value>
+      <webElementGuid>57f6c266-19c2-4042-927f-b19376611ef8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

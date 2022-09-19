@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Filter</name>
+   <tag></tag>
+   <elementGuidId>5957deb7-753c-4829-819e-10eafcc4b0f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div/div/div/div/div[2]/div/div/form/div[4]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fa27f50a-d425-4b63-b83f-4086307b4cd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>8c2ed344-8488-4666-9a1a-3a7cc8754729</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                          Filter
+                        </value>
+      <webElementGuid>213d245d-3fd4-4436-833e-09525c9a6545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card card-plb&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-md-8&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;form-group row justify-content-center&quot;]/div[@class=&quot;col-sm-6&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>d21d14f1-a27c-466c-941a-63744d3bc247</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/div/div/div/div[2]/div/div/form/div[4]/div/button</value>
+      <webElementGuid>cfc93718-75b7-4c33-a5a7-438a367821e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Dokumen'])[1]/following::button[1]</value>
+      <webElementGuid>cbf3023e-0d80-4c83-a052-018cf7f4a4dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Pengajuan'])[1]/following::button[1]</value>
+      <webElementGuid>8be2778e-a4bc-4af4-b1c7-bc9789ea2841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::button[1]</value>
+      <webElementGuid>e2419130-6f3c-4032-863e-671b702a6c30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Filter']/parent::*</value>
+      <webElementGuid>7874ee09-a33d-462a-a1a4-9997a3fee725</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button</value>
+      <webElementGuid>015e27bf-c185-4b2c-9307-6fcc07ac5845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                          Filter
+                        ' or . = '
+                          Filter
+                        ')]</value>
+      <webElementGuid>26de1464-e249-40c2-a020-bdd8eb9f0d4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Search_vgt-input vgt-pull-left</name>
+   <tag></tag>
+   <elementGuidId>fabc1714-8b98-436d-89b8-6c7abc014443</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.vgt-input.vgt-pull-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3701f37a-ede9-4a27-b691-81c35ea24f14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>1e18d814-c127-43ad-8a21-0e9d4e9acdaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search Data</value>
+      <webElementGuid>ad3a6225-fc20-4571-8650-ff3dc7a1069a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vgt-input vgt-pull-left</value>
+      <webElementGuid>7318bf85-cf40-4b2c-ab66-927b51a82cc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card card-plb&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-group mt-4&quot;]/div[@class=&quot;vgt-wrap polar-bear&quot;]/div[@class=&quot;vgt-inner-wrap&quot;]/div[@class=&quot;vgt-global-search vgt-clearfix&quot;]/div[@class=&quot;vgt-global-search__input vgt-pull-left&quot;]/input[@class=&quot;vgt-input vgt-pull-left&quot;]</value>
+      <webElementGuid>34026854-4871-406f-928c-47f7a258b844</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[4]</value>
+      <webElementGuid>bab38f7b-c4c6-4808-ad99-b0ccb7099430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/div/div/div/div[2]/div[2]/div/div/div/div/input</value>
+      <webElementGuid>88fdfe2d-8d40-4ee2-ba8b-e273e579a4bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/input</value>
+      <webElementGuid>2737aa14-3ad0-4b1d-a321-d29b5b858953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Search Data']</value>
+      <webElementGuid>3e98a0a9-6b17-4715-afb2-8ee422d8c984</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

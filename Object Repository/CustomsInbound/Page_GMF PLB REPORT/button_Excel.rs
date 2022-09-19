@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Excel</name>
+   <tag></tag>
+   <elementGuidId>e4a74ac1-b5b9-41f7-b143-89bd2427f86b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>111afc28-d86b-4410-8d03-f3073da4b136</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-secondary ms-auto rounded-1</value>
+      <webElementGuid>4ce0b9e0-7532-4dc2-b494-3fb1b6f71d2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Excel
+                          </value>
+      <webElementGuid>17af7b0a-6cae-4745-97cd-0b8a7c8cc4d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card card-plb&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-group mt-4&quot;]/div[@class=&quot;vgt-wrap polar-bear&quot;]/div[@class=&quot;vgt-inner-wrap&quot;]/div[@class=&quot;vgt-global-search vgt-clearfix&quot;]/div[@class=&quot;vgt-global-search__actions vgt-pull-right&quot;]/div[1]/button[@class=&quot;btn btn-secondary ms-auto rounded-1&quot;]</value>
+      <webElementGuid>03170f63-d28a-424c-b039-7a1e4e0416af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/button[2]</value>
+      <webElementGuid>7ac81b67-d1bb-415f-b9bf-96f40ffd4af1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CSV'])[1]/following::button[1]</value>
+      <webElementGuid>f956fb4e-354e-424d-8050-807ad9033b0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::button[2]</value>
+      <webElementGuid>a2c587ce-64b6-407c-9182-f3e8b34fa652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF'])[1]/preceding::button[1]</value>
+      <webElementGuid>0d75ad53-5b20-40ca-b097-5db4d9aaf7c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Dokumen'])[2]/preceding::button[2]</value>
+      <webElementGuid>0dde8879-65f4-4768-811f-0c352948e497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Excel']/parent::*</value>
+      <webElementGuid>8b3a7346-62a1-4588-8558-83916401f533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button[2]</value>
+      <webElementGuid>7e104d4b-efc2-4c4e-b924-9f93450c568a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                            Excel
+                          ' or . = '
+                            Excel
+                          ')]</value>
+      <webElementGuid>2a0aece3-60b7-4223-82a0-56f5c4309b5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
