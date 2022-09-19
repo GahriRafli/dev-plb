@@ -29,5 +29,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/LoginValid/input_Passwo
 
 WebUI.click(findTestObject('Object Repository/LoginValid/button_Masuk'))
 
+WebUI.verifyElementText(findTestObject('Object Repository/LoginValid/h1_Dashboard'), 'Dashboard')
+
 WebUI.closeBrowser()
 
