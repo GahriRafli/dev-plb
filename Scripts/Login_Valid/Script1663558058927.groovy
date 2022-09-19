@@ -17,3 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://dev-plb.gmf.cloud/login')
+
+WebUI.click(findTestObject('Object Repository/LoginValid/input_Username_username'))
+
+WebUI.setText(findTestObject('Object Repository/LoginValid/input_Username_username'), 'adminPLB')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/LoginValid/input_Password_password'), 'SM/KXVj7ZOFtPaxrpzqfFQ==')
+
+WebUI.click(findTestObject('Object Repository/LoginValid/button_Masuk'))
+
+WebUI.closeBrowser()
+
