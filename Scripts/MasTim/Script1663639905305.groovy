@@ -17,29 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://dev-plb.gmf.cloud/login')
-
-WebUI.setText(findTestObject('Object Repository/DashBoard/input_Username_username'), 'adminPLB')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/DashBoard/input_Password_password'), 'SM/KXVj7ZOFtPaxrpzqfFQ==')
-
-WebUI.click(findTestObject('Object Repository/DashBoard/button_Masuk'))
-
-WebUI.click(findTestObject('Object Repository/DashBoard/button_Status Outbound_btn btn-tool'))
-
-WebUI.click(findTestObject('Object Repository/DashBoard/button_Status Outbound_btn btn-tool'))
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/DashBoard/span_Sudah Dibuat BC 28'))
-
-WebUI.verifyTextPresent('Status Pesawat di GMF', true)
-
-WebUI.verifyTextPresent('Status Outbound', true)
-
-WebUI.verifyTextPresent('Saldo Akhir Allotment', true)
-
-WebUI.verifyTextPresent('Status Masa Timbun', true)
-
-WebUI.closeBrowser()
-

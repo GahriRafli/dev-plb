@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Password_password</name>
    <tag></tag>
-   <elementGuidId>6d11417a-e2ef-4dae-b02a-d63bf81b9c74</elementGuidId>
+   <elementGuidId>a0fd9f12-b999-40ee-973a-58e99cc8fde9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8c2d198f-6f9c-47b8-a9cc-a5842e118d96</webElementGuid>
+      <webElementGuid>76883bf0-18aa-4a33-bdf3-80c0b59ac1d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>60f0f91e-9a65-408d-8bde-a183c4304a41</webElementGuid>
+      <webElementGuid>544c32e9-94b5-43e6-ac59-aaefbde8fc48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>b52786ee-a001-42b6-8a39-df730b1ff4aa</webElementGuid>
+      <webElementGuid>2a8fe857-ba78-46b3-9900-49f45abbec9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>4e5f97b5-f7fe-46ce-8f0d-1c6722c1b55a</webElementGuid>
+      <webElementGuid>ea838f4c-5ed7-4220-8081-b7db616d72b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Masukan Password anda</value>
-      <webElementGuid>5ffd82ed-54ab-4f4f-95ef-c83683cd7d58</webElementGuid>
+      <webElementGuid>f58f7b7e-1a5c-47b5-afc1-d31cfcf5b57b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>current-password</value>
-      <webElementGuid>0b26704d-dfda-43ff-90e2-32d438beaf68</webElementGuid>
+      <webElementGuid>d32e9b58-db76-4b7b-bdef-6a236a8f6d06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control </value>
-      <webElementGuid>47545a86-c842-4099-90f4-eb9ade14b0d3</webElementGuid>
+      <webElementGuid>7b1d78b5-aafa-49bb-8ffd-f1f46cb7143c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;password&quot;)</value>
-      <webElementGuid>5c68133f-7b93-43c0-8a4b-d121f2d52790</webElementGuid>
+      <webElementGuid>3b6d32fa-090c-4f6c-ac8e-0ee10280ea6d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='password']</value>
-      <webElementGuid>bf80ade9-d16d-4400-8b83-634836e92ac1</webElementGuid>
+      <webElementGuid>6038a2b2-2093-4905-9a56-92326eb83011</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div[2]/form/div[2]/input</value>
-      <webElementGuid>fa1f3211-d5eb-4748-88fb-06672e495c1b</webElementGuid>
+      <webElementGuid>e7a8b57f-ee47-4626-a9f2-f1163df4b4f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::input[1]</value>
-      <webElementGuid>21dd7a49-1a66-4b87-8f66-6f878825cb0a</webElementGuid>
+      <webElementGuid>d1a4a600-5319-421f-bbb5-11a042340dfe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::input[2]</value>
-      <webElementGuid>002aaa94-c201-4854-bbaa-3bfe93cbb41c</webElementGuid>
+      <webElementGuid>d47938f3-644c-45ae-8391-af4a0ba48acd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingat Saya'])[1]/preceding::input[2]</value>
-      <webElementGuid>089b2344-bace-43b5-b9bd-721f88bd08ac</webElementGuid>
+      <webElementGuid>3890e476-1912-4569-99bb-b872bbc5cf6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::input[2]</value>
-      <webElementGuid>3d3af317-0413-4ed2-b7aa-78e2afc1b9de</webElementGuid>
+      <webElementGuid>39821dd1-b699-4928-beca-24fd07e974ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>2246929e-ef03-4e08-bd5c-a45d6dd42a53</webElementGuid>
+      <webElementGuid>6959aeed-fc47-4aae-a742-d480dc180a1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @name = 'password' and @id = 'password' and @placeholder = 'Masukan Password anda']</value>
-      <webElementGuid>93103e49-2229-4b10-b339-a2370344b875</webElementGuid>
+      <webElementGuid>cbfe0961-7ecf-420a-9ce2-ab49efbc1aa3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

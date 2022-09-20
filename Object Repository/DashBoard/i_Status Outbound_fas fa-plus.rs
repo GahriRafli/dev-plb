@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Status Outbound_fas fa-plus</name>
+   <tag></tag>
+   <elementGuidId>87c928e6-d8fa-4e61-975b-2c28635abba6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chart']/div/div/div/div/div/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-plus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>66d29e1c-84fb-4187-93f7-152ecd659112</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-plus</value>
+      <webElementGuid>0ff332b9-6be7-49b8-8b3d-4f4f63b31bf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chart&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-7&quot;]/div[@class=&quot;card card-plb collapsed-card&quot;]/div[@class=&quot;card-header ui-sortable-handle&quot;]/div[@class=&quot;card-tools&quot;]/button[@class=&quot;btn btn-tool&quot;]/i[@class=&quot;fas fa-plus&quot;]</value>
+      <webElementGuid>b98e04d7-18a8-4772-926f-0a6671e3166b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chart']/div/div/div/div/div/div/button/i</value>
+      <webElementGuid>0fba995a-e70b-40db-a3e3-2f5498d9ff8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>667fc899-2d2d-4eff-8792-957d5f3280fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

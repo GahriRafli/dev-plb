@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>path_Sudah Dibuat BC 28_SvgjsPath1602</name>
+   <name>path_KLM_SvgjsPath1626</name>
    <tag></tag>
-   <elementGuidId>cc653545-d51c-49ec-ac6e-60c02cf001a4</elementGuidId>
+   <elementGuidId>550a67fe-df12-439b-8974-d73234302e25</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//path[@id = 'SvgjsPath1602' and @selected = 'true']</value>
+         <value>//path[@id = 'SvgjsPath1626' and @selected = 'true']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#SvgjsPath1602</value>
+         <value>#SvgjsPath1626</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,31 +22,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>path</value>
-      <webElementGuid>57bacca5-ffc7-4ac4-befa-ffc7ace67b29</webElementGuid>
+      <webElementGuid>738a6c36-fbbf-46ad-a338-33f42cd83262</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>SvgjsPath1602</value>
-      <webElementGuid>2052b29a-48a9-485e-9d6c-5ddbab52590b</webElementGuid>
+      <value>SvgjsPath1626</value>
+      <webElementGuid>8cd4835a-47e8-4b13-98f8-9fb572a52e7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>d</name>
       <type>Main</type>
-      <value>M 325.8078777016692 105.17264151395969 A 165.70731707317074 165.70731707317074 0 1 1 175.97107861737106 10.292685450696013 L 176 176 L 325.8078777016692 105.17264151395969</value>
-      <webElementGuid>6128d41e-a8f7-4a6d-b193-9644e3d30bef</webElementGuid>
+      <value>M 222.5 9.941056910569102 A 151.64227642276424 151.64227642276424 0 1 1 170.6352868836555 304.08046148698185 L 222.5 161.58333333333334 L 222.5 9.941056910569102</value>
+      <webElementGuid>e086b88a-a33c-4967-8060-e9d07a468c7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>fill</name>
       <type>Main</type>
-      <value>rgba(67,104,43,1)</value>
-      <webElementGuid>9b7d1d03-e4c2-4b76-8e56-81f5dfafbafe</webElementGuid>
+      <value>rgba(237,125,49,1)</value>
+      <webElementGuid>f727a56f-724e-4335-87d2-24b2aceb41b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>fill-opacity</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>2ad666b2-0df0-48a1-9507-a314a49fe576</webElementGuid>
+      <webElementGuid>db8723a2-b0f1-4bac-ac75-582e97ea21dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>stroke-opacity</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>f8156c9e-b2c0-42c6-a85f-e996388c84f8</webElementGuid>
+      <webElementGuid>9f5ab662-11b0-4f81-8888-5aa5b94331dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>stroke-linecap</name>
       <type>Main</type>
       <value>butt</value>
-      <webElementGuid>92d56423-2385-46a5-9615-5bf4ce554457</webElementGuid>
+      <webElementGuid>ccc67433-5a01-4464-a160-45d534900b58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>stroke-width</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>37d292fb-4e28-4421-bc2c-a2bc6ff6a6fe</webElementGuid>
+      <webElementGuid>8e40a432-3412-48a7-ace1-90f85d4df868</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,15 +86,15 @@
       <name>stroke-dasharray</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>fe76982c-e25a-471c-8da6-91e04a07d85a</webElementGuid>
+      <webElementGuid>56194b64-52de-4471-a0eb-2c636761d5a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>apexcharts-pie-area apexcharts-pie-slice-3</value>
-      <webElementGuid>14f03266-09af-4a8c-bbf1-811bf06b613f</webElementGuid>
+      <value>apexcharts-pie-area apexcharts-pie-slice-0</value>
+      <webElementGuid>866d952c-912a-47b7-82f3-6072fc18ab41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,31 +102,31 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>7219dc7c-ae29-4640-a12d-4aaadf78176b</webElementGuid>
+      <webElementGuid>09e2aa1c-8885-4c93-9c14-4a5ed9d47a15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>j</name>
       <type>Main</type>
-      <value>3</value>
-      <webElementGuid>19eecf41-077d-4b57-9eb4-3dc8fbad78a1</webElementGuid>
+      <value>0</value>
+      <webElementGuid>219ec0ed-4965-4dbe-b24b-8e1c9ef9f979</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data:angle</name>
       <type>Main</type>
-      <value>295.3042198233562</value>
-      <webElementGuid>bb880059-bf10-4439-961a-229c00ab94ca</webElementGuid>
+      <value>200</value>
+      <webElementGuid>bc0d54e7-43b4-45a1-b12f-b98441f45416</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data:startAngle</name>
       <type>Main</type>
-      <value>64.69578017664377</value>
-      <webElementGuid>8a21b149-5313-4ff5-9aff-95c5476ac95d</webElementGuid>
+      <value>0</value>
+      <webElementGuid>e015ef7b-826a-4289-9282-4bcf71acd37a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -134,23 +134,23 @@
       <name>data:strokeWidth</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>ad9ca271-726c-4bc3-be97-55a3473ff814</webElementGuid>
+      <webElementGuid>4a087848-7acb-4a28-b321-d97c0dc5a962</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data:value</name>
       <type>Main</type>
-      <value>6687</value>
-      <webElementGuid>009a627e-9e50-4f28-b6a9-40a87fa97402</webElementGuid>
+      <value>10</value>
+      <webElementGuid>0827dd06-523b-4f66-b865-0a57d6d07ec7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data:pathOrig</name>
       <type>Main</type>
-      <value>M 325.8078777016692 105.17264151395969 A 165.70731707317074 165.70731707317074 0 1 1 175.97107861737106 10.292685450696013 L 176 176 L 325.8078777016692 105.17264151395969</value>
-      <webElementGuid>483bc1bc-9031-45ba-b5c1-eebc27f1da57</webElementGuid>
+      <value>M 222.5 9.941056910569102 A 151.64227642276424 151.64227642276424 0 1 1 170.6352868836555 304.08046148698185 L 222.5 161.58333333333334 L 222.5 9.941056910569102</value>
+      <webElementGuid>c9dd12be-9aa7-475b-becb-c84571031c22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -158,7 +158,7 @@
       <name>stroke</name>
       <type>Main</type>
       <value>#ffffff</value>
-      <webElementGuid>633af1df-bf54-4fbc-87da-8dc15dc5d9b3</webElementGuid>
+      <webElementGuid>d4ec63f2-d725-45d4-9882-bef0c0096d85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -166,30 +166,30 @@
       <name>selected</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>0a6f6993-9fee-4056-9cd9-a05444b5138f</webElementGuid>
+      <webElementGuid>375564de-56b8-4106-aa84-d456768d80fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>filter</name>
       <type>Main</type>
-      <value>url(#SvgjsFilter1736)</value>
-      <webElementGuid>ee4fbcc5-025e-4bb3-aba5-f6d07e6ab989</webElementGuid>
+      <value>url(#SvgjsFilter1855)</value>
+      <webElementGuid>d933261c-645d-4dd2-a579-ab945a1aa9c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;SvgjsPath1602&quot;)</value>
-      <webElementGuid>2daa5d05-26c8-4070-b99e-e93c52a4bede</webElementGuid>
+      <value>id(&quot;SvgjsPath1626&quot;)</value>
+      <webElementGuid>3a5a473f-459c-43f8-a486-1360c3a632d2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//path[@id = 'SvgjsPath1602' and @selected = 'true']</value>
-      <webElementGuid>707d2373-811d-4898-bc33-49c8ad40d3dc</webElementGuid>
+      <value>//path[@id = 'SvgjsPath1626' and @selected = 'true']</value>
+      <webElementGuid>4cb81be9-28e0-49e5-8753-993ec0df0d34</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

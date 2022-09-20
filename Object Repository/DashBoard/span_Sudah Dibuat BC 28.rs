@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sudah Dibuat BC 28</name>
+   <tag></tag>
+   <elementGuidId>a0fc4336-d4ad-4708-be09-444b93911ef3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Outbound > 14 Hari sejak Pesawat Keluar'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8011c499-0850-4d8b-931e-650f2231c77f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>apexcharts-legend-text</value>
+      <webElementGuid>4a3dd46c-a5e8-406e-949c-7939e303d489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>8189543a-cf1c-4cd0-b935-eb914f044d4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>i</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>346bd388-1572-481a-a3bf-72d506c5ed5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data:default-text</name>
+      <type>Main</type>
+      <value>Sudah%20Dibuat%20BC%2028</value>
+      <webElementGuid>9f64febe-e59f-4edc-b079-830211bb48aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data:collapsed</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e2f8a83b-fa47-4e12-877e-5f413dd52c55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sudah Dibuat BC 28</value>
+      <webElementGuid>fe0c5e4a-ddc0-4bc4-b583-220722b4b38c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SvgjsSvg1793&quot;)/foreignobject[1]/div[@class=&quot;apexcharts-legend apexcharts-align-center apx-legend-position-right&quot;]/div[@class=&quot;apexcharts-legend-series&quot;]/span[@class=&quot;apexcharts-legend-text&quot;]</value>
+      <webElementGuid>0229ecf0-f97b-41b4-96e5-9dc72048f862</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outbound > 14 Hari sejak Pesawat Keluar'])[1]/following::span[2]</value>
+      <webElementGuid>da5765dd-5814-43dc-8ff7-be4d8531e034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outbound &lt;= 14 Hari sejak Pesawat Keluar'])[1]/following::span[4]</value>
+      <webElementGuid>a73bb40c-8d20-4027-b576-77e2fe4e7611</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outbound > 14 Hari sejak Pesawat Keluar:'])[1]/preceding::span[2]</value>
+      <webElementGuid>d5a9848b-9418-420e-a143-eaa271642f63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outbound > 14 Hari sejak Pesawat Keluar:'])[2]/preceding::span[9]</value>
+      <webElementGuid>f199c229-1ee5-4a8a-965f-6696f0f58e0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sudah Dibuat BC 28']/parent::*</value>
+      <webElementGuid>246325c8-0f5a-44d1-9ce2-06c572325114</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/span[2]</value>
+      <webElementGuid>c7f9b04b-8230-425f-855a-c24079e1c9ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sudah Dibuat BC 28' or . = 'Sudah Dibuat BC 28')]</value>
+      <webElementGuid>0eeb18d8-6b45-43b7-8857-b7cef5262e9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

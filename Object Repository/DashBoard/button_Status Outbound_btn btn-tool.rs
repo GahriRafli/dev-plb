@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Masuk</name>
+   <name>button_Status Outbound_btn btn-tool</name>
    <tag></tag>
-   <elementGuidId>45ebbb8d-1ff0-4009-b89c-c957e72e6b78</elementGuidId>
+   <elementGuidId>df828c36-1194-49ab-a791-df4f1cdc5c4f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//button[@type='button']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-primary.btn-block</value>
+         <value>button.btn.btn-tool</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,79 +22,87 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4f40ffdb-cdd5-4eb3-a74e-9a803118dea7</webElementGuid>
+      <webElementGuid>30430e6b-1be1-4a6d-a2de-ea9d278c4fb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>73bd7556-b94b-4f7d-bd9d-3807eaabd1b9</webElementGuid>
+      <value>button</value>
+      <webElementGuid>f65e492d-6b56-4fd1-b9f8-63bb2378a3f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-card-widget</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>2b3883ad-1663-4c77-a50a-8076ebd5fc2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-block</value>
-      <webElementGuid>68aa8ca4-893e-4fde-a8d5-022c19fc0683</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Masuk</value>
-      <webElementGuid>586bf822-f18e-4be2-95ff-203e4f4b63e6</webElementGuid>
+      <value>btn btn-tool</value>
+      <webElementGuid>ea4291f9-e009-4bf8-b73a-8f9025a1f94a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;login-page&quot;]/div[@class=&quot;login-box&quot;]/div[@class=&quot;login-card&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-4&quot;]/button[@class=&quot;btn btn-primary btn-block&quot;]</value>
-      <webElementGuid>7cb6e2b6-b6d8-4348-98e7-7f19790019f2</webElementGuid>
+      <value>id(&quot;chart&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-7&quot;]/div[@class=&quot;card card-plb&quot;]/div[@class=&quot;card-header ui-sortable-handle&quot;]/div[@class=&quot;card-tools&quot;]/button[@class=&quot;btn btn-tool&quot;]</value>
+      <webElementGuid>7f1a5309-ec9d-4676-9d88-70b35c666ca1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>2fa821a5-b610-45f3-9240-6769c67679f7</webElementGuid>
+      <value>//button[@type='button']</value>
+      <webElementGuid>c635f4fd-dda7-4cc3-9b07-70766b250339</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/div/div[2]/form/div[3]/div[2]/button</value>
-      <webElementGuid>ab0231fc-8d2f-4ab1-8265-f3421d1a29c6</webElementGuid>
+      <value>//div[@id='chart']/div/div/div/div/div/div/button</value>
+      <webElementGuid>3ffa5e80-caf5-4941-b4f4-a61445312f46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingat Saya'])[1]/following::button[1]</value>
-      <webElementGuid>08ed778a-d0a6-407e-8f5c-1f0da4a1c465</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status Outbound'])[1]/following::button[1]</value>
+      <webElementGuid>494e1fe2-d208-4bff-87c0-a363df0d07ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>a89d0003-b6c3-453a-a41e-ee6ae0b52da4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[4]/following::button[1]</value>
+      <webElementGuid>00187d7d-f047-431e-9be8-90e8ed9ee302</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2022 GMF AeroAsia'])[1]/preceding::button[1]</value>
-      <webElementGuid>95641f34-3bd0-485a-87bc-47c5cdf0049e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outbound pada Pesawat di Area PLB GMF'])[1]/preceding::button[1]</value>
+      <webElementGuid>e25dfd47-ddd4-4556-959d-e3598a85936b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outbound &lt;= 14 Hari sejak Pesawat Keluar'])[1]/preceding::button[1]</value>
+      <webElementGuid>e80e7c96-63c3-4b7c-90ee-1c8b7925ec7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,14 +110,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>bbaa54a6-ddb7-475a-b198-4914cfbb083c</webElementGuid>
+      <webElementGuid>b169acc2-dba8-445a-82d8-3f01d5b779a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Masuk' or . = 'Masuk')]</value>
-      <webElementGuid>da40e7a6-3a61-4db9-a3ba-5e3349981f0b</webElementGuid>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>a4220b3e-66a6-4f45-bbd2-2629ddfe5885</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
